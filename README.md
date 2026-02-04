@@ -76,6 +76,9 @@ plt.show()
 
 <img width="945" height="787" alt="image" src="https://github.com/user-attachments/assets/0f4d06ff-326e-4161-8a6a-e4d7f9f2aa2c" />
 
+<img width="407" height="331" alt="image" src="https://github.com/user-attachments/assets/4b6a4749-e3b7-4cd1-94b1-c11a49352976" />
+
+
 
 
 ## Result:
