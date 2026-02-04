@@ -74,7 +74,8 @@ plt.show()
 
 ## Output:
 
-![Uploading image.png…]()
+<img width="945" height="787" alt="image" src="https://github.com/user-attachments/assets/0f4d06ff-326e-4161-8a6a-e4d7f9f2aa2c" />
+
 
 
 ## Result:
